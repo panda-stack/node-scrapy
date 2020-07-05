@@ -21,7 +21,7 @@
     "express-mysql-session": "^1.2.3",
     "express-partial": "^0.1.0",
     "express-session": "^1.15.6",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.13",
     "morgan": "~1.9.0",
     "mysql": "^2.15.0",
     "node-cron": "^1.2.1",
