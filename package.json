@@ -7,7 +7,7 @@
     "historical": "node ./manager/historical.js"
   },
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^2.6.4",
     "async-series": "0.0.1",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "~1.18.2",
